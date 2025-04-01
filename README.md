@@ -1,10 +1,11 @@
 <h2 align="left">Hi 👋! My name is Aniket Mahakalkar and I'm a Student at SPPU(Pune University)</h2>
-
+<h3 align="center">A passionate Software Developer from India</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mahakalkaraniket001?ext=heatmap)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-mahakalkar&" alt="aniket-mahakalkar" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-mahakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-mahakalkar" /> </p>
 
@@ -23,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-mahakalkar&show_icons=true&locale=en" alt="aniket-mahakalkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-mahakalkar&" alt="aniket-mahakalkar" /></p>
+
