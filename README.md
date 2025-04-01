@@ -5,7 +5,7 @@
 ## My LeetCode Profile
 
 ![Badge 1](https://assets.leetcode.com/users/{mahakalkaraniket001}/
-[badge1.png](https://assets.leetcode.com/static_assets/others/2550.gif))
+![badge1.png](https://assets.leetcode.com/static_assets/others/2550.gif)/
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mahakalkaraniket001?ext=heatmap)
