@@ -4,7 +4,7 @@
 
 ## My LeetCode Profile
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/{your_username})](https://leetcode.com/{your_username}/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/{mahakalkaraniket001})](https://leetcode.com/{mahakalkaraniket001}/)
 
 
 
