@@ -57,6 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70">
+  <img src ="https://www.google.com/imgres?q=llm%20image&imgurl=https%3A%2F%2Fpixelplex.io%2Fwp-content%2Fuploads%2F2024%2F01%2Fllm-applications-meta.jpg&imgrefurl=https%3A%2F%2Fpixelplex.io%2Fblog%2Fllm-applications%2F&docid=u6nW0AUudaYc8M&tbnid=N5MeNuwZQ92HYM&vet=12ahUKEwj3uLuNwreMAxVuxzgGHbvoN8oQM3oECBsQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwj3uLuNwreMAxVuxzgGHbvoN8oQM3oECBsQAA" widht = "70">
 </p>
 
 
