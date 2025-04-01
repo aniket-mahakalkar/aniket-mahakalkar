@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 ## [My LeetCode Profile](https://leetcode.com/mahakalkaraniket001/)
-## My LeetCode Profile
 
 <p align="center">
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="200">
