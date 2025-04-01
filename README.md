@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <strong style="font-size: 24px;">🛠️ Tech Stack</strong>
+  <strong style="font-size: 30px;">🛠️ Tech Stack</strong>
   
 </p>
 
