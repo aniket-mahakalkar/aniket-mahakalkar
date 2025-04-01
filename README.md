@@ -1,7 +1,16 @@
 <h2 align="left">Hi 👋! My name is Aniket Mahakalkar and I'm a Student at SPPU(Pune University)</h2>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+
+## My LeetCode Profile
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/{your_username})](https://leetcode.com/{your_username}/)
+
+
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mahakalkaraniket001?ext=heatmap)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-mahakalkar&" alt="aniket-mahakalkar" /></p>
 
