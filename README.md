@@ -67,8 +67,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-mahakalkar&show_icons=true&locale=en&layout=compact" alt="aniket-mahakalkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-mahakalkar&show_icons=true&locale=en" alt="aniket-mahakalkar" /></p>
-
-
