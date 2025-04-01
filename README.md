@@ -9,13 +9,10 @@
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="200">
 <p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mahakalkaraniket001?ext=heatmap)
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahakalkaraniket001?ext=heatmap">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-mahakalkar&" alt="aniket-mahakalkar" /></p>
 
 
 
