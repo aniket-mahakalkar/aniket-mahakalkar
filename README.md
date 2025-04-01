@@ -26,15 +26,18 @@
 </p>
 
 <p align="center">
-## 🛠️ Tech Stack
 
-### 🖥️ Languages
-<p>
 
 <p align="center">
   <strong style="font-size: 24px;">🛠️ Tech Stack</strong>
   
 </p>
+
+
+### 🖥️ Languages
+
+
+
   
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60">
