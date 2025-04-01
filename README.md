@@ -4,9 +4,10 @@
 
 ## My LeetCode Profile
 
-
+<p align="center">
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="200">
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="200">
+<p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mahakalkaraniket001?ext=heatmap)
 
