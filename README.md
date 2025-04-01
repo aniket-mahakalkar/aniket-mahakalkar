@@ -25,10 +25,12 @@
 <a href="https://kaggle.com/aniketmahakalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniketmahakalkar" height="30" width="40" /></a>
 </p>
 
-
+<p align="center">
 ## 🛠️ Tech Stack
 
 ### 🖥️ Languages
+<p>
+  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60">
