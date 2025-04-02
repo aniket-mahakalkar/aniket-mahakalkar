@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! AI/ML Developer Intern at Cyperts Digital, pune and final year student at SPPU(Pune University)</h2>
+<h2 align="left">👋 AI/ML Developer Intern at Cyperts Digital, pune and final year student at SPPU(Pune University)</h2>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 ## [My LeetCode Profile](https://leetcode.com/mahakalkaraniket001/)
