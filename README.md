@@ -4,8 +4,8 @@
 ## [My LeetCode Profile](https://leetcode.com/mahakalkaraniket001/)
 
 <p align="center">
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="200">
-<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="200">
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="150">
+<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="150">
 <p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniket mahakalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket mahakalkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-mahakalkar-b9961733a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket mahakalkar" height="30" width="40" /></a>
 <a href="https://kaggle.com/aniketmahakalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniketmahakalkar" height="30" width="40" /></a>
 </p>
 
