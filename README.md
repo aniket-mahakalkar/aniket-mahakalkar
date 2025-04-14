@@ -64,6 +64,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FAISS_logo.png/320px-FAISS_logo.png" width="70" alt="RAG">
 </p>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 
