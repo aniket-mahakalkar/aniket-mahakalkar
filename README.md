@@ -4,7 +4,7 @@
 ## [My LeetCode Profile](https://leetcode.com/mahakalkaraniket001/)
 
 <p align="center">
-  
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100">
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100">
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100">
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="100">
