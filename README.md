@@ -6,6 +6,8 @@
 <p align="center">
   
 <img src="[https://assets.leetcode.com/static_assets/others/2550.gif" width="100">
+![image](https://github.com/user-attachments/assets/56ac298e-1b29-4161-8557-2223bae72a73)
+
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100">
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="100">
 <p>
