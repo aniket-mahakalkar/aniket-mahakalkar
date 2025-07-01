@@ -1,4 +1,4 @@
-<h3 align="left">👋 AI/ML Developer Intern at Cyperts Digital, pune and final year student at SPPU(Pune University)</h3>
+<h3 align="left">👋 Generative AI Research and Backend Intern at Synergy Labs, Gurugram </h3>
 <h3 align="center">A passionate Software Developer</h3>
 
 ## [My LeetCode Profile](https://leetcode.com/mahakalkaraniket001/)
